@@ -63,7 +63,8 @@ function draw(){
 
     bird.display();
     platform.display();
-    //log6.display();
+  
+	console.log("teja");
     slingshot.display();    
 }
 
